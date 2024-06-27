@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Snuffle\\source\\repos\\AvaloniaApplicationPracticeOne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CD4BC5-5E72-479A-BE60-8B2A81C4E6B4}|AvaloniaApplicationPracticeOne\\AvaloniaApplicationPracticeOne.csproj|c:\\users\\snuffle\\source\\repos\\avaloniaapplicationpracticeone\\avaloniaapplicationpracticeone\\registrationwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CD4BC5-5E72-479A-BE60-8B2A81C4E6B4}|AvaloniaApplicationPracticeOne\\AvaloniaApplicationPracticeOne.csproj|solutionrelative:avaloniaapplicationpracticeone\\registrationwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CD4BC5-5E72-479A-BE60-8B2A81C4E6B4}|AvaloniaApplicationPracticeOne\\AvaloniaApplicationPracticeOne.csproj|c:\\users\\snuffle\\source\\repos\\avaloniaapplicationpracticeone\\avaloniaapplicationpracticeone\\userwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CD4BC5-5E72-479A-BE60-8B2A81C4E6B4}|AvaloniaApplicationPracticeOne\\AvaloniaApplicationPracticeOne.csproj|solutionrelative:avaloniaapplicationpracticeone\\userwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CD4BC5-5E72-479A-BE60-8B2A81C4E6B4}|AvaloniaApplicationPracticeOne\\AvaloniaApplicationPracticeOne.csproj|c:\\users\\snuffle\\source\\repos\\avaloniaapplicationpracticeone\\avaloniaapplicationpracticeone\\models\\programcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CD4BC5-5E72-479A-BE60-8B2A81C4E6B4}|AvaloniaApplicationPracticeOne\\AvaloniaApplicationPracticeOne.csproj|solutionrelative:avaloniaapplicationpracticeone\\models\\programcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Snuffle\\source\\repos\\AvaloniaApplicationPracticeOne\\AvaloniaApplicationPracticeOne\\RegistrationWindow.axaml.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplicationPracticeOne\\RegistrationWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\Snuffle\\source\\repos\\AvaloniaApplicationPracticeOne\\AvaloniaApplicationPracticeOne\\RegistrationWindow.axaml.cs",
+              "RelativeToolTip": "AvaloniaApplicationPracticeOne\\RegistrationWindow.axaml.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwDQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:50:39.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\Snuffle\\source\\repos\\AvaloniaApplicationPracticeOne\\AvaloniaApplicationPracticeOne\\UserWindow.axaml.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplicationPracticeOne\\UserWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\Snuffle\\source\\repos\\AvaloniaApplicationPracticeOne\\AvaloniaApplicationPracticeOne\\UserWindow.axaml.cs",
+              "RelativeToolTip": "AvaloniaApplicationPracticeOne\\UserWindow.axaml.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:54:53.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProgramContext.cs",
+              "DocumentMoniker": "C:\\Users\\Snuffle\\source\\repos\\AvaloniaApplicationPracticeOne\\AvaloniaApplicationPracticeOne\\Models\\ProgramContext.cs",
+              "RelativeDocumentMoniker": "AvaloniaApplicationPracticeOne\\Models\\ProgramContext.cs",
+              "ToolTip": "C:\\Users\\Snuffle\\source\\repos\\AvaloniaApplicationPracticeOne\\AvaloniaApplicationPracticeOne\\Models\\ProgramContext.cs",
+              "RelativeToolTip": "AvaloniaApplicationPracticeOne\\Models\\ProgramContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA8wBcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T05:48:34.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
